@@ -1,0 +1,17 @@
+{
+  "name": "mern-proj",
+  "version": "1.0.0",
+  "description": "Mongo Express React Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "mongo",
+    "node"
+  ],
+  "author": "Kryvonis Artem <kryvonis.artem@gmail.com>",
+  "license": "ISC"
+}
